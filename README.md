@@ -67,7 +67,8 @@ Material Design之利用CollapsingToolbarLayout实现带Banner的toolbar的折�
 
 Java代码
 
-Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
