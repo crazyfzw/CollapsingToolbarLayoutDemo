@@ -7,6 +7,7 @@ Material Design之利用CollapsingToolbarLayout实现带Banner的toolbar的折�
 
 ![images](https://github.com/crazyfzw/ProjectImages/blob/master/CollapsingToolbarLayoutDemo/Coll.gif)
 
+![url](http://blog.csdn.net/fzw_faith/article/details/51336257)
 
 布局xml
  <android.support.design.widget.CoordinatorLayout
